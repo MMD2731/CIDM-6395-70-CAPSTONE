@@ -1,4 +1,4 @@
-# H1 Miguel Sanchez
+# Miguel Sanchez
 
 Repository of Samples of Work by Miguel Sanchez for CIDM-6395-70 Capstone
 
