@@ -20,8 +20,8 @@ My deficiencies in Advanced Business Forecasting are vast because of this course
 My sample of works can be found in the following repositories:
 
 
-[CIDM-6308 - RapidMiner Predictive Analysis and Data Science Certificate](https://www.example.com)
+[CIDM-6308 - RapidMiner Predictive Analysis and Data Science Certificate](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/RapidMiner_Certificate.docx)
 
-[CIDM-6362 - Forecasting Project 1 for Amarillo & Sacramento](https://www.example.com)
+[CIDM-6362 - Forecasting Project 1 for Amarillo & Sacramento](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/Forecasting%20Project%201_MM.pdf)
 
-[CIDM-6362 - Forecasting Project 2 for Amarillo & Sacramento](https://www.example.com)
+[CIDM-6362 - Forecasting Project 2 for Amarillo & Sacramento](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/Forecasting%20Project%202%20MM.pdf)

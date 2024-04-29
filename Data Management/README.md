@@ -18,8 +18,8 @@ As for Data Management, I currently work for a financial institution and work cl
 ## **Sample of Work**
 My sample of works can be found in the following repositories:
 
-[CIDM-6350 - HBU Database](https://www.example.com)
+[CIDM-6350 - HBU Database](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/Project%20CIDM6350_MMS.docx)
 
-[CIDM-6351 - Datacamp Coursework](https://www.example.com)
+[CIDM-6351 - Datacamp Coursework](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/CIDM-6351%20DataCamps.png)
 
 

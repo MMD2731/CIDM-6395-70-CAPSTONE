@@ -14,8 +14,8 @@ My future considerations for Networking and Cyber Security will revolve around a
 ## **Sample of Works**
 My sample of works can be found in the following repositories:
 
-[CIDM-6340 - Ransomware Recovery Plan](https://www.example.com)
+[CIDM-6340 - Ransomware Recovery Plan](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/RansomwareRecovery_MiguelSanchez.docx)
 
-[CIDM-6356 - Digital Forensic Analysis](https://www.example.com)
+[CIDM-6356 - Digital Forensic Analysis](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/Digital%20Forensic%20Analysis.docx)
 
-[CIDM-6356 - Detecting Employee Fraud](https://www.example.com)
+[CIDM-6356 - Detecting Employee Fraud](https://github.com/MMD2731/CIDM-6395-70-CAPSTONE/blob/main/Samples%20of%20Work/Detecting%20Employee%20Fraud__FINALSUB.docx)
