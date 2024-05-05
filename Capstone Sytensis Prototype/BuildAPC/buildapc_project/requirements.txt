@@ -1,0 +1,16 @@
+Django==3.2.5
+djangorestframework==3.12.4
+django-cors-headers==3.7.0
+dj-database-url==0.5.0
+gunicorn==20.1.0
+whitenoise==5.2.0
+django-filter==2.4.0
+djangorestframework-simplejwt==4.6.0  # JWT Authentication
+python-decouple==3.4  # Handling environment variables
+RapidMiner==0.0.0  # External integration required, canot install via pip
+Tableau==0.0.0  # External integration required, cannot install via pip
+Faker==8.8.1  # Generating Fake Data
+pandas==1.3.0  # For future Panda's implementation
+numpy==1.21.1  # For numerical operations if needed
+scipy==1.7.0  # If using SciPy for calculations
+SQLAlchemy==1.4.22  # For SQL toolkit and Object-Relational Mapping (ORM)
